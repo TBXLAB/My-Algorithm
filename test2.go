@@ -32,7 +32,7 @@ func main() {
 func sum2(nums []int, sum int) []int {
 
 	for i := 0; i <= len(nums)-1; i++ {
-		fmt.Println(i)
+// 		fmt.Println(i)
 		left := i + 1
 		right := len(nums) - 1
 		sumTmp := sum - nums[i]
