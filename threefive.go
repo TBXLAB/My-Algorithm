@@ -1,4 +1,4 @@
-//Write by Kotch
+// Write by Kotch
 // Write a function called ThreeFive to print number from 1 to 100 in a new line.
 // - if the number is divisible by 3 then print "Three"
 // - if the number is divisible by 5 then print "Five"
